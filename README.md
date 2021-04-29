@@ -8,14 +8,21 @@ Joining two metals plays a significant role in an automobile and aerospace indus
 # Envirnoment
 
 Colab
-CatBoost
-XGBoost
-Numpy
-Pandas
-Seaborn
-Matplotlib
-Scikit-learn
+*CatBoost
+*XGBoost
+*Numpy
+*Pandas
+*Seaborn
+*Matplotlib
+*Scikit-learn
+*Gradio
 
-# OUTPUT
+# Setup
+
+$!pip install catboost
+$!pip install xgboost
+$!pip install gradio
+
+# Output using gradio
 
 ![screenshot (1)](https://user-images.githubusercontent.com/83408384/116570370-d9555900-a927-11eb-830f-470435336561.png)
