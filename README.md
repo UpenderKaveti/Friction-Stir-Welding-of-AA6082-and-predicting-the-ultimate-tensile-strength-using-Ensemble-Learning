@@ -4,7 +4,7 @@ Developed by @UpenderKaveti
 
 # Envirnoment
 
-Colab
+* Colab
 * CatBoost
 * XGBoost
 * Numpy
@@ -16,9 +16,11 @@ Colab
 
 # Setup
 
+```
 $ !pip install catboost
 $ !pip install xgboost
 $ !pip install gradio
+```
 
 # Output using gradio
 
