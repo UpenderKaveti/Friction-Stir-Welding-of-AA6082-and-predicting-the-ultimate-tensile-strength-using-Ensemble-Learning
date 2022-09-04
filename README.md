@@ -1,24 +1,22 @@
-# Friction-Stir-Welding-of-AA6082-and-predicting-the-ultimate-tensile-strength-using-Ensemble-Learning
+# Friction stir welding of IS:65032 aluminum alloy and predicting tensile strength using Ensemble Learning
 
 Developed by @UpenderKaveti
 
 # Envirnoment
 
 * Colab
-* CatBoost
-* XGBoost
 * Numpy
 * Pandas
 * Seaborn
 * Matplotlib
 * Scikit-learn
+* SHAP (SHapley Additive exPlanations)
 * Gradio
 
 # Setup
 
 ```
-$ !pip install catboost
-$ !pip install xgboost
+$ !pip install shap
 $ !pip install gradio
 ```
 
